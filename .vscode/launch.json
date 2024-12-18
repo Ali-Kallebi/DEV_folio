@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Launch Edge",
+        "type": "msedge",
+        "request": "launch",
+        "file": "${workspaceFolder}/index.html", // Path to your HTML file
+        "webRoot": "${workspaceFolder}"
+      }
+    ]
+  }
+  
